@@ -94,7 +94,7 @@ def check_v1(el): # Проверка варианта 1
 ![image](https://user-images.githubusercontent.com/64695348/235352232-6ef8d59f-3490-4006-92ca-7ecc7a75f909.png)
 ![image](https://user-images.githubusercontent.com/64695348/235352294-7bb2209c-2be1-42c9-89b2-5866328c9d75.png)
 
-This work was written under the order for the school CODOLOGIA. I wrote in Python using the library tkinter. Version python 3.10.5.
+This work was written under the order for the school CODOLOGIA.
  
 # RU | Тестовая работа по дизайну
 Тестовая работа по дизайну, включает в себя 3 вариннта по 11 вопросов в каждом. В конце каждого варианта подсчитывается общее количество баллов и оценка. Программа написана на Python версии 3.10.5. Используемые библиотеки:
@@ -193,4 +193,4 @@ def check_v1(el): # Проверка варианта 1
 ![image](https://user-images.githubusercontent.com/64695348/235352232-6ef8d59f-3490-4006-92ca-7ecc7a75f909.png)
 ![image](https://user-images.githubusercontent.com/64695348/235352294-7bb2209c-2be1-42c9-89b2-5866328c9d75.png)
 
-Работа написана по заказу школы КОДОЛОГИЯ. Я писал на Python, используя библиотеку tkinter. Версия питона 3.10.5.
+Работа написана по заказу школы CODOLOGIA.
